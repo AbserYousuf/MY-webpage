@@ -616,7 +616,7 @@ text-align: center;
   top:6em;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-@media (max-width:500px) {
+@media (max-width:760px) {
      
   .firstImage{
    height:857px;
@@ -861,3 +861,4 @@ left:3em;
   
 }
 }
+
