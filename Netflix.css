@@ -1,7 +1,6 @@
 .firstImage{
   height:53.56em;
-  width:119.5em;
- 
+  width:119.5em; 
   padding-left:1em;
   padding-top:1em;
   background-image: url("https://xboxwire.thesourcemediaassets.com/sites/2/2023/05/Background-size1920x1080-4e1694a6-75aa-4c36-9d4d-7fb6a3102005-bc5318781aad7f5c8520.png");
@@ -16,7 +15,6 @@ body{
 .container1{
 height:3em;
 width:10em;
-
 margin:0em;
 position: relative;
 bottom:2em;
@@ -35,7 +33,6 @@ padding-bottom: 1em;
 .container2{
   height:1.5em;
   width:5em;
-    
   color:WHITE;
   position: relative;
   padding-left: 1.5em;
@@ -861,7 +858,3 @@ left:3em;
   
 }
 }
-
-
-
-
