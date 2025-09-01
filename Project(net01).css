@@ -154,7 +154,7 @@ body{
 .outer-box{
  height:18em;
  width:50%;
-   background:linear-gradient(to top,grey 1%, white 1%, black 1%,bisque 97% );
+  
  position: relative;
  bottom:27.5em;
  left:25em;
