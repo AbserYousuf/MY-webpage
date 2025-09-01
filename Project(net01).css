@@ -708,7 +708,7 @@ left:-0.5em;
   }
 .outer-box{
  position: relative;
- left:-1em;
+ left:-2em;
  width:100%;
  background: transparent;
 }
@@ -729,7 +729,7 @@ left:-0.5em;
 }
 .right{
   position: relative;
-  left:25em;
+  left:24em;
   
 }
 .more-content{
