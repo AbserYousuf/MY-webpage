@@ -336,8 +336,18 @@ body{
         left:-8em;
         bottom:1.5em;
     }
+    .Email{
+        width:60%;
+    }
+    .password{
+        width:60%;
+    }
     .forgot{
         position: relative;
         left:5em;
+    }
+    .learn{
+        position: relative;
+        left:-6em;
     }
 }
