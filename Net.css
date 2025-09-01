@@ -312,16 +312,32 @@ body{
         overflow-x: hidden;
     }
 }
-@media (max-width:760px) {
+@media (max-width:760px)  {
     .corporate{
         position: relative;
         bottom:10em;
         
     }
 }
-@media (max-width:480px) {
+@media (max-width:480px), (max-height:960px) {
     .corporate{
         position: relative;
         top:-7em;
+    }
+}
+@media (max-width:760px){
+    .out-box{
+        width:100%;
+        position: relative;
+        left:1em;
+    }
+    .content h3{
+        position: relative;
+        left:-8em;
+        bottom:1.5em;
+    }
+    .forgot{
+        position: relative;
+        left:5em;
     }
 }
