@@ -324,8 +324,6 @@ body{
         position: relative;
         top:-7em;
     }
-}
-@media (max-width:760px){
     .out-box{
         width:100%;
         position: relative;
@@ -351,3 +349,4 @@ body{
         left:-6em;
     }
 }
+
