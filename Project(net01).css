@@ -708,13 +708,13 @@ left:-0.5em;
   }
 .outer-box{
  position: relative;
- left:1em;
+ left:-1em;
  width:100%;
  background: transparent;
 }
 .inner-box{
   position: relative;
- left:4em;
+ left:2em;
  width: 100%;
 }
 .content-filler{
@@ -742,7 +742,9 @@ left:-0.5em;
   padding-left: 1em;
 }
 .task{
-  width:100%
+  width:100%;
+  position: relative;
+  left:-1.5em
 }
 .question1{
   width: 80%;
